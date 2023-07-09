@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KromiCute.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KromiCute.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.unitTest.iml" />
+    </modules>
+  </component>
+</project>

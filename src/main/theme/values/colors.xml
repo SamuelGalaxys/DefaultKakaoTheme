@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_background_color">#853A92</color>
+    <color name="theme_body_cell_border_color">#63FFFFFF</color>
+
+
+
+
+
+    <!-- 헤더 셀, 둘다 똑같음-->
+    <color name="statusBarColor">#CFB4FF</color>
+    <color name="theme_header_cell_color">#CFB4FF</color>
+
+
+    <!--내 멀티프로필, 생일인 친구 등 텍스트-->
+    <color name="theme_section_title_color">#F4E351</color>
+
+
+    <!--채팅 이라 쓰여있는 가장 기본. 돋보기 친추 채팅 설정 아이콘 등등-->
+    <color name="theme_header_color">#FFFFFF</color>
+
+
+    <!--메인 배경-->
+    <color name="theme_body_cell_color">#00CFB4FF</color>
+
+
+    <!-- 타이틀. 채팅 상대방 이름 크게 뜨는거-->
+    <color name="theme_title_color">#FFFFFF</color>
+    <color name="theme_title_pressed_color">#E8E8E8</color>
+
+    <!--채팅 미리보기-->
+    <color name="theme_paragraph_color">#E8E8E8</color>
+    <color name="theme_paragraph_pressed_color">#CDCDCD</color>
+
+
+    <!--채팅창, 읽지 않음, 상메-->
+    <color name="theme_chatroom_unread_count_color">#C664D6</color>
+    <color name="theme_description_color">#E8E8E8</color>
+    <color name="theme_description_pressed_color">#BABABA</color>
+
+
+
+
+
+
+
+    <color name="theme_body_cell_pressed_color">#26ffffff</color>
+    <color name="theme_body_secondary_cell_color">#FD0000</color>
+    <color name="theme_chatroom_background_color">#74397E</color>
+    <color name="theme_chatroom_bubble_me_color">#292828</color>
+    <color name="theme_chatroom_bubble_you_color">#292828</color>
+
+
+
+    <color name="theme_chatroom_input_bar_background_color">#EDDFE4</color>
+
+
+    <!-- 채팅창 진입함 -->
+    <color name="theme_chatroom_input_bar_color">#2C2C2C</color>
+    <color name="theme_chatroom_input_bar_menu_icon_color">#B399E1</color>
+    <color name="theme_chatroom_input_bar_send_button_color">#C595CD</color>
+    <color name="theme_chatroom_input_bar_send_icon_color">#FFFFFF</color>
+
+
+    <!--상메 올리는 셀-->
+    <color name="theme_feature_primary_color">#E1E1E1</color>
+    <color name="theme_feature_primary_pressed_color">#E4E4E4</color>
+
+
+
+
+    <color name="theme_direct_share_background_color">#9269DA</color>
+    <color name="theme_direct_share_button_color">#D5D5D5</color>
+    <color name="theme_direct_share_color">#1E1E1E</color>
+
+
+    <!--My뷰 발견 카카오TV -->
+    <color name="theme_feature_browse_tab_color">#00353233</color>
+    <color name="theme_feature_browse_tab_focused_color">#00232323</color>
+
+
+
+
+     <color name="theme_notification_background_color">#8D64D6</color>
+    <color name="theme_notification_background_pressed_color">#9268DD</color>
+
+
+    <color name="theme_notification_color">#302F2F</color>
+
+
+
+    <!--패스코드 컬러 영역-->
+    <color name="theme_passcode_background_color">#FFFFFF</color>
+    <color name="theme_passcode_color">#1E1E1E</color>
+    <color name="theme_passcode_keypad_background_color">#FFFFFF</color>
+    <color name="theme_passcode_keypad_color">#C889C8</color>
+    <color name="theme_passcode_keypad_pressed_background_color">#C8C8C8</color>
+    <color name="theme_passcode_keypad_pressed_color">#1E1E1E</color>
+    <color name="theme_passcode_pattern_line_color">#1E1E1E</color>
+
+</resources>

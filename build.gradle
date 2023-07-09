@@ -1,0 +1,69 @@
+
+buildscript {
+
+    repositories {
+
+        jcenter() // or mavenCentral()
+
+        google()
+    }
+
+
+
+    dependencies {
+
+        classpath 'com.android.tools.build:gradle:7.1.1' // Use the latest version
+
+    }
+
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        minSdkVersion 20
+        targetSdkVersion 31
+
+        versionName "3"
+        versionCode 13
+        applicationId "moneyswagx.kromicute"
+
+
+        sourceSets {
+            main.res.srcDirs += 'src/main/theme'
+            main.res.srcDirs += 'src/main/theme-adv'
+        }
+    }
+
+
+
+    buildTypes {
+        debug {
+         //   resValue "string", "admobid", "ca-app-pub-3940256099942544~3347511713"
+         //   resValue "string", "admobreward", "ca-app-pub-3940256099942544/5224354917"
+         //   resValue "string", "admobbanner", "ca-app-pub-3940256099942544/6300978111"
+
+
+        }
+    }
+
+
+
+    allprojects {
+        repositories {
+            jcenter()
+            google()
+        }
+    }
+
+
+}
+
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads:20.4.0'
+
+}
