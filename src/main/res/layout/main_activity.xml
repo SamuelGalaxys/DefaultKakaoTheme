@@ -50,7 +50,7 @@
         android:background="#FFF385"
         android:paddingTop="16dp"
         android:paddingBottom="16dp"
-        android:text="친구에게 알리기"
+        android:text="❣️공유하기❣️"
         android:textColor="#434343"
         android:textSize="13sp"
         android:textStyle="bold" />

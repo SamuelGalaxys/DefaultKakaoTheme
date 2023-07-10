@@ -18,6 +18,7 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/admobid"/>
 
+
         <activity
             android:name="moneyswagx.kromicute.MainActivity"
             android:launchMode="singleTop"
