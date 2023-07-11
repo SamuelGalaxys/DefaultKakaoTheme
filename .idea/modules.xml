@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KromiCute.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KromiCute.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KromiCute.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KromiCute.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.iml" filepath="$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DefaultKakaotalk.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DefaultKakaotalk.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DefaultKakaotalk.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -31,7 +31,7 @@ android {
 
         versionName "4"
         versionCode 14
-        applicationId "moneyswagx.kromicute"
+        applicationId "moneyswagx.defaultkakao"
 
 
         sourceSets {

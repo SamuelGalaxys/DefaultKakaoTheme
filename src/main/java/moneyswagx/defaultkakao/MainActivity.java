@@ -1,4 +1,4 @@
-package moneyswagx.kromicute;
+package moneyswagx.defaultkakao;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -16,7 +16,6 @@ import android.widget.Button;
 
 import androidx.annotation.NonNull;
 
-import com.google.android.gms.ads.AdError;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.LoadAdError;
@@ -29,7 +28,7 @@ import com.google.android.gms.ads.rewarded.RewardedAd;
 
 
 import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
-import com.kakao.talk.theme.kromicute.R;
+import com.kakao.talk.theme.defaultkakao.R;
 
 public class MainActivity extends Activity {
     private static final String KAKAOTALK_SETTINGS_THEME_URI = "kakaotalk://settings/theme/";
@@ -54,13 +53,14 @@ public class MainActivity extends Activity {
                         Log.d(TAG, loadAdError.toString());
                         rewardedAd = null;
                     }
-
                     @Override
                     public void onAdLoaded(@NonNull RewardedAd ad) {
                         rewardedAd = ad;
                         Log.d(TAG, "Ad was loaded.");
                     }
                 });
+
+
 
 
         MobileAds.initialize(this, new OnInitializationCompleteListener() {
