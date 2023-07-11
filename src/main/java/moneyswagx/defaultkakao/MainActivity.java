@@ -151,7 +151,7 @@ public class MainActivity extends Activity {
                 Intent Sharing_intent = new Intent(Intent.ACTION_SEND);
                 Sharing_intent.setType("text/plain");
 
-                String Test_Message = "쿠로미톡 다운로드! https://play.google.com/store/apps/details?id=moneyswagx.kromicute";
+                String Test_Message = getString(R.string.message);
 
                 Sharing_intent.putExtra(Intent.EXTRA_TEXT, Test_Message);
 

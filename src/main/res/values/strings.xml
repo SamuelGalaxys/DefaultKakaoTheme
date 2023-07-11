@@ -3,6 +3,14 @@
     <string name="apply">Apply Now</string>
     <string name="install_kakaotalk">Install KakaoTalk</string>
 
+
+    <string name="theme_title">구로미 카톡테마</string>
+    <string name="app_name">구로미 카톡테마</string>
+    
+
+    <string name="message" translatable="false">"쿠로미톡 다운로드! https://play.google.com/store/apps/details?id=moneyswagx.kromicute";</string>
+
+
     <string name="admobid" translatable="false">ca-app-pub-5762704473558821~3293992847</string>
     <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
 
