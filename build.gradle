@@ -29,8 +29,8 @@ android {
         minSdkVersion 20
         targetSdkVersion 31
 
-        versionName "3"
-        versionCode 13
+        versionName "4"
+        versionCode 14
         applicationId "moneyswagx.kromicute"
 
 
