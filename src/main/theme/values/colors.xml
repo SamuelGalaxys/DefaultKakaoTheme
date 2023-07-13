@@ -45,7 +45,9 @@
 
 
     <!--My뷰 색상-->
-    <co상or name="theme_body_secondary_cell_color">#26FD00</color>
+    <color name="theme_body_secondary_cell_color">#26FD00</color>
+
+
 
 
 
