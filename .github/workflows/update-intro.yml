@@ -20,7 +20,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git commit -am "Update README" --author="GitHub Actions <actions@github.com>"
+          git config --local user.email "samuelthegalaxys@github.com"
+          git config --local user.name "SamuelGalaxys"
+          git commit -am "Update README" --author="GitHub Actions <samuelthegalaxys@github.com>"
           git push
