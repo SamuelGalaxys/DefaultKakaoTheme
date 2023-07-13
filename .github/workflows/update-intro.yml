@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          # README를 업데이트하는 명령어를 입력하세요.
+          # 예를 들면, 파일을 생성하거나 내용을 변경하는 등의 작업을 할 수 있습니다.
+          echo "Hello, World!" > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit -am "Update README" --author="GitHub Actions <actions@github.com>"
+          git push
