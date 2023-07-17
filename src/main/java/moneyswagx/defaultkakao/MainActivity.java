@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.main_activity);
 
 
+
         AdRequest adRequest = new AdRequest.Builder().build();
         RewardedAd.load(this, getString(R.string.admobreward),
                 adRequest, new RewardedAdLoadCallback() {
